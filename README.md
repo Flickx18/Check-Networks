@@ -8,6 +8,8 @@ A Simple and Fast way to Check Saved Networks and their information your pc!
 
 
 -Click Start Button your Pc search cmd and run it as an adminstator.
+
+
 -Type the command below 
  𝗻𝗲𝘁𝘀𝗵 𝘄𝗹𝗮𝗻 𝘀𝗵𝗼𝘄 𝗽𝗿𝗼𝗳𝗶𝗹𝗲
  
