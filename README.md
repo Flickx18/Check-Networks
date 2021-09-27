@@ -11,6 +11,8 @@ A Simple and Fast way to Check Saved Networks and their information your pc!
 
 
 -Type the command below 
+
+
  𝗻𝗲𝘁𝘀𝗵 𝘄𝗹𝗮𝗻 𝘀𝗵𝗼𝘄 𝗽𝗿𝗼𝗳𝗶𝗹𝗲
  
  -You'll get list of networks which were previously connected to your desktop.
